@@ -22,11 +22,17 @@
 - You train the model with **labeled images**
 - It identifies **patterns (features)** like nose or mouth visibility
 - It **learns rules** and gets better through feedback
-  
-  [see in 3.Teachable Machine](https://github.com/owner/repository/blob/main/Day2/to/Day2_Notes.md#L42)
+
+
+## 🤖 2. Teachable Machine (by Google) 
+
+- **Link:** [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/)
+- Upload or record data ➡️ train a model ➡️ get instant feedback
+- You used it to **detect mask-wearing in real-time!**
+
 ---
 
-## 📌 2. Key Terminologies in Machine Learning
+## 📌 3. Key Terminologies in Machine Learning
 
 | Term           | What It Means |
 |----------------|---------------|
@@ -41,14 +47,6 @@
 - **Training Set** – Teaches the model
 - **Validation Set** – Tunes the model
 - **Test Set** – Evaluates final model performance
-
----
-
-## 🤖 3. Teachable Machine (by Google)
-
-- **Link:** [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/)
-- Upload or record data ➡️ train a model ➡️ get instant feedback
-- You used it to **detect mask-wearing in real-time!**
 
 ---
 
