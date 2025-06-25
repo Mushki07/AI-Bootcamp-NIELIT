@@ -19,6 +19,13 @@ This repository includes my daily learning, assignments, and projects.
 - Intelligence & Artificial Intelligence
 - AI in Everyday Life: Tools & Demos
 - Python, Machine Learning, NLP, CV (Upcoming)
+- Train a Basic AI Model
+- Core ML Concepts
+- Hands-On Tools
+- Introduction to ML Types
+- Python Coding Basics
+- AI Careers & Future Scope
+- GitHub Essentials
 
 ---
 
