@@ -23,7 +23,7 @@
 - It identifies **patterns (features)** like nose or mouth visibility
 - It **learns rules** and gets better through feedback
   
-  [see in 3.Teachable Machine](./Day2/Day2_Notes.md/46)
+  [see in 3.Teachable Machine](./Day2/Day2_Notes.md/#L46)
 ---
 
 ## 📌 2. Key Terminologies in Machine Learning
