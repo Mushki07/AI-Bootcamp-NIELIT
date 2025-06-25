@@ -8,7 +8,7 @@ This repository includes my daily learning, assignments, and projects.
 ## 📅 Day-wise Progress
 
 - [Day 1 - Introduction to AI & Motivation](./Day1/Day1_Notes.md)
-- [Day 2 - Introduction to AI & Motivation](./Day2/Day2_Notes.md)
+- [Day 2 - AI Gets Real](./Day2/Day2_Notes.md)
 
 ---
 
