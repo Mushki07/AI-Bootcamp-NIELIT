@@ -1,5 +1,5 @@
 # AI BootCamp - NIELIT 🇮🇳
-
+This is swati Student of DBRAsose Rohini SEC=11, delhi and 
 Welcome to my repository for the **FSP/AI/CDACPUNE/BCMP/01** AI BootCamp organized by **NIELIT**.  
 This repository includes my daily learning, assignments, and projects.
 
