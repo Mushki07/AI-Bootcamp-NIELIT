@@ -18,7 +18,7 @@ This repository includes my daily learning, assignments, and projects.
 - Real-life Applications of AI
 - Intelligence & Artificial Intelligence
 - AI in Everyday Life: Tools & Demos
-- Python, Machine Learning, NLP, CV (Upcoming)
+- Python, Machine Learning, NLP, CV
 - Train a Basic AI Model
 - Core ML Concepts
 - Hands-On Tools
