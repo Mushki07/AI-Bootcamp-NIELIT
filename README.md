@@ -30,6 +30,23 @@ This repository includes my daily learning, assignments, and projects.
 ---
 
 ## 🔗 External Resources
-
+All resourses are compiled in day by day ways
+- [Day1](./Day1/Useful_links.md)
+- [Day2](./Day2/Useful_links.md)
+- [Day3](./Day3/Useful_link.md)
 - [NPTEL: Machine Learning (Hindi)](https://onlinecourses.nptel.ac.in/noc23_cs125/preview)
 - [NPTEL: Intro to Machine Learning](https://onlinecourses.nptel.ac.in/noc25_cs46/preview)
+
+
+## 🧑‍🏫 Trainer & Course Info
+
+| Topic           | Link                                                                 |
+|------------------|----------------------------------------------------------------------|
+| Feedback Form    | [Google Form](https://forms.gle/vo8SVmPnpY6K8Gnu8)                   |
+| Trainer Website  | [Sachin Motwani](https://sachinlearns.com)                           |
+| Trainer Contact  | [sachinlearns.nielit@gmail.com](mailto:sachinlearns.nielit@gmail.com) |
+
+---
+
+
+REGARDS
