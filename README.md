@@ -19,6 +19,7 @@ This repository includes my daily learning, assignments, and projects.
 - Intelligence & Artificial Intelligence
 - AI in Everyday Life: Tools & Demos
 - Python, Machine Learning, NLP, CV
+[Day 2](https://github.com/Mushki07/AI-Bootcamp-NIELIT/blob/main/Day2/Day2_Notes.md#-todays-mission)
 - Train a Basic AI Model
 - Core ML Concepts
 - Hands-On Tools
@@ -26,6 +27,7 @@ This repository includes my daily learning, assignments, and projects.
 - Python Coding Basics
 - AI Careers & Future Scope
 - GitHub Essentials
+[Day 3](https://github.com/Mushki07/AI-Bootcamp-NIELIT/blob/main/Day3/Day3_notes.md#-topics-covered)
 - Python Syntax, Types & Operators
 - Built-in Functions
 - Data Structures (List, Tuple, Set, Dictionary)
