@@ -1,5 +1,5 @@
 # AI BootCamp - NIELIT 🇮🇳
-This is SWATI, Student of DBRAsose Rohini SEC=11 and, 
+This is [SWATI](https://github.com/Mushki07), Student of DBRAsose Rohini SEC = 11 and, 
 You're Welcome to my repository for the **AI BootCamp** organized by **NIELIT**.  
 This repository includes my daily learning, assignments, and projects.
 
@@ -13,7 +13,7 @@ This repository includes my daily learning, assignments, and projects.
 ---
 
 ## 📚 Topics Covered (So Far)
-
+[Day 1](https://github.com/Mushki07/AI-Bootcamp-NIELIT/blob/main/Day1/Day1_Notes.md#-course-objectives)
 - Introduction to AI
 - Real-life Applications of AI
 - Intelligence & Artificial Intelligence
@@ -26,6 +26,14 @@ This repository includes my daily learning, assignments, and projects.
 - Python Coding Basics
 - AI Careers & Future Scope
 - GitHub Essentials
+- Python Syntax, Types & Operators
+- Built-in Functions
+- Data Structures (List, Tuple, Set, Dictionary)
+- Conditionals & Loops
+- Neural Networks & Activation Functions
+- Deep Learning vs Machine Learning
+- TensorFlow Playground Demo
+- OpenCV Image Code in Colab
 
 ---
 
