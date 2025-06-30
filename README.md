@@ -9,7 +9,7 @@ This repository includes my daily learning, assignments, and projects.
 
 - [Day 1 - Introduction to AI & Motivation](./Day1/Day1_Notes.md)
 - [Day 2 - AI Gets Real](./Day2/Day2_Notes.md)
-
+-  [Day 3 -  Python, Data Structures & Deep Learning 🧠](./Day3/Day3_Notes.md)
 ---
 
 ## 📚 Topics Covered (So Far)
