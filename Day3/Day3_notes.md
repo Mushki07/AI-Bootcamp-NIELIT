@@ -249,14 +249,13 @@ Where:
 6. **ELU (Exponential Linear Unit)**
 
    * Formula:
-
-     $$
-     f(x) = 
-     \begin{cases} 
-     x & \text{if } x \geq 0 \\
-     \alpha (e^x - 1) & \text{if } x < 0 
-     \end{cases}
-     $$
+M$$
+f(x) = 
+\begin{cases}
+x & \text{if } x > 0 \\
+\alpha \left(e^{x} - 1\right) & \text{if } x \leq 0
+\end{cases}
+$$
    * Smooth, avoids zero-centered output problem, improves learning speed.
 ---
 
