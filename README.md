@@ -46,17 +46,21 @@ All resourses are compiled in day by day ways
 - [Day3](./Day3/Useful_link.md)
 - [NPTEL: Machine Learning (Hindi)](https://onlinecourses.nptel.ac.in/noc23_cs125/preview)
 - [NPTEL: Intro to Machine Learning](https://onlinecourses.nptel.ac.in/noc25_cs46/preview)
+---
+## 🧑‍🏫 Trainer Credit
 
-
-## 🧑‍🏫 Trainer & Course Info
-
-| Topic           | Link                                                                 |
-|------------------|----------------------------------------------------------------------|
-| Feedback Form    | [Google Form](https://forms.gle/vo8SVmPnpY6K8Gnu8)                   |
-| Trainer Website  | [Sachin Motwani](https://sachinlearns.com)                           |
-| Trainer Contact  | [sachinlearns.nielit@gmail.com](mailto:sachinlearns.nielit@gmail.com) |
+**Trainer:** Sachin Motwani  
+**Affiliation:** Assistant Faculty (AI & IT), NIELIT Delhi  
+🌐 [sachinlearns.com](https://sachinlearns.com)  
+📧 [sachinlearns.nielit@gmail.com](mailto:sachinlearns.nielit@gmail.com)
 
 ---
+## 📄 License Note
 
+These notes are shared for **educational and academic purposes only**.  
+Content is adapted and compiled from:
+- Live training sessions
+- Open educational blogs
+- Publicly available teaching resources
 
 REGARDS
