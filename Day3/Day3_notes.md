@@ -1,13 +1,6 @@
-## 📁 Day3/Day3\_Notes.md
+Absolutely! Here's your complete, **GitHub-ready** `Day3_Notes.md` structured into:
 
-````markdown
 # 📘 Day 3 – Python, Data Structures & Deep Learning 🧠
-
-**Course Code:** FSP/AI/CDACPUNE/BCMP/01  
-**Conducted by:** NIELIT Delhi  
-**Trainer:** Sachin Motwani  
-🌐 [sachinlearns.com](https://sachinlearns.com) | 📧 [sachinlearns.nielit@gmail.com](mailto:sachinlearns.nielit@gmail.com)
-
 ---
 
 ## 🎯 Topics Covered
@@ -220,6 +213,51 @@ Where:
 | **Maxout**     | `max(w₁ᵀx + b₁, w₂ᵀx + b₂)`  | Generalizes ReLU                   |
 | **ELU**        | `x` if ≥0, else `α(e^x - 1)` | Smooth transition, faster learning |
 
+### 📌 **Activation Functions in Neural Networks**
+
+1. **Sigmoid**
+
+   * Formula: $\sigma(x) = \frac{1}{1 + e^{-x}}$
+   * Range: (0, 1)
+   * Characteristics: Smooth, S-shaped curve.
+   * Issue: Vanishing gradient for large positive/negative inputs.
+
+2. **Tanh (Hyperbolic Tangent)**
+
+   * Formula: $\tanh(x)$
+   * Range: (-1, 1)
+   * Characteristics: Zero-centered, steeper than sigmoid.
+   * Still prone to vanishing gradients, but less than sigmoid.
+
+3. **ReLU (Rectified Linear Unit)**
+
+   * Formula: $\max(0, x)$
+   * Characteristics: Efficient, sparse activation.
+   * Issue: Dying ReLU problem (neurons output 0 for all inputs).
+
+4. **Leaky ReLU**
+
+   * Formula: $\max(0.1x, x)$
+   * Fixes Dying ReLU by allowing a small, non-zero gradient when $x < 0$.
+
+5. **Maxout**
+
+   * Formula: $\max(w_1^T x + b_1, w_2^T x + b_2)$
+   * Learns activation shape through parameters.
+   * Generalizes ReLU and Leaky ReLU.
+
+6. **ELU (Exponential Linear Unit)**
+
+   * Formula:
+
+     $$
+     f(x) = 
+     \begin{cases} 
+     x & \text{if } x \geq 0 \\
+     \alpha (e^x - 1) & \text{if } x < 0 
+     \end{cases}
+     $$
+   * Smooth, avoids zero-centered output problem, improves learning speed.
 ---
 
 ## 🧠 Deep Learning vs Machine Learning
@@ -257,7 +295,4 @@ if img is not None:
 else:
     print("Image not found.")
 ```
-* 🗂️ Full GitHub repo with auto-folder structure
-* 🧾 Printable PDF versions
 
-I'm ready with those if needed!
