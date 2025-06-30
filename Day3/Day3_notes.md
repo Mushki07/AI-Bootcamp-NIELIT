@@ -217,46 +217,54 @@ Where:
 
 1. **Sigmoid**
 
-   * Formula: $\sigma(x) = \frac{1}{1 + e^{-x}}$
+   *Formula:*
+       $\sigma(x) = \frac{1}{1 + e^{-x}}$
    * Range: (0, 1)
    * Characteristics: Smooth, S-shaped curve.
    * Issue: Vanishing gradient for large positive/negative inputs.
 
 2. **Tanh (Hyperbolic Tangent)**
 
-   * Formula: $\tanh(x)$
+   *Formula:*
+       $\tanh(x)$
    * Range: (-1, 1)
    * Characteristics: Zero-centered, steeper than sigmoid.
    * Still prone to vanishing gradients, but less than sigmoid.
 
 3. **ReLU (Rectified Linear Unit)**
 
-   * Formula: $\max(0, x)$
+   *Formula:*
+       $\max(0, x)$
    * Characteristics: Efficient, sparse activation.
    * Issue: Dying ReLU problem (neurons output 0 for all inputs).
 
 4. **Leaky ReLU**
 
-   * Formula: $\max(0.1x, x)$
+   *Formula:*
+      $\max(0.1x, x)$
    * Fixes Dying ReLU by allowing a small, non-zero gradient when $x < 0$.
 
 5. **Maxout**
 
-   * Formula: $\max(w_1^T x + b_1, w_2^T x + b_2)$
+   *Formula:*
+      $\max(w_1^T x + b_1, w_2^T x + b_2)$
    * Learns activation shape through parameters.
    * Generalizes ReLU and Leaky ReLU.
 
 6. **ELU (Exponential Linear Unit)**
 
-   * Formula:
-M$$
-f(x) = 
+*Formula:*
+
+$$
+f(x) =
 \begin{cases}
 x & \text{if } x > 0 \\
 \alpha \left(e^{x} - 1\right) & \text{if } x \leq 0
 \end{cases}
 $$
-   * Smooth, avoids zero-centered output problem, improves learning speed.
+
+*Smooth, avoids zero-centered output problem, improves learning speed.*
+
 ---
 
 ## 🧠 Deep Learning vs Machine Learning
