@@ -34,18 +34,3 @@ This file includes citations, acknowledgments, and resource credits used during 
 | TensorFlow Playground | Neural net visualization  |
 
 ---
-
-## 📄 License Note
-
-These notes are shared for **educational and academic purposes only**.  
-Content is adapted and compiled from:
-- Live training sessions
-- Open educational blogs
-- Publicly available teaching resources
-
-> Please credit the trainer or source when reusing any content publicly.
-
----
-
-> 🗂️ Save as: `Day3/References.md`
-
