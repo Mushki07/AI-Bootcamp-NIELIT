@@ -109,7 +109,7 @@ while i < 5:
 for fruit in ["apple", "banana", "cherry"]:
     print(fruit)
 ```
-
+---
 ### Nested Loops
 
 ```python
@@ -120,7 +120,7 @@ for i in range(2):
 
 ---
 
-## ❓ Conditionals
+## ❓If/Else Conditionals
 
 ```python
 x = 10
